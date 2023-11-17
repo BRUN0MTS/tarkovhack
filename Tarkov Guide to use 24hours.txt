@@ -1,0 +1,21 @@
+Instructions for launching a wallhack for EFT:
+After paying for the goods, you will receive a license activation key for the product.
+Now you need to download the cheat loader by this link . In order to download the loader, you will need to enter your key.
+Open the loader and insert the key received after payment.
+Now wait for the inscription "Press F2 in game menu" to appear.
+Start the game, wait for the full load and press the F2 key.
+The inscription "Inject successful" will appear in the software loader.
+The launch and injection were successful, after entering the server, the chams will work.
+If you want to use this software with a spoofer, then always run the cheat first, and then the spoofer, because otherwise the lock to the hardware will fail and you will not be able to run the program again. 
+Also, to launch game again with cheat and a spoofer, you will have to restart your PC.
+When using this cheat, it is prohibited to run Resource Monitor / Process Hacker or any other software for analysis and debugging. This will lead to your key being banned.
+
+Solving possible problems when starting the cheat on Tarkov:
+Remove Faceit anti-cheat and Riot Vanguard using Software Uninstalling. Anti-cheats prevent cheats from working;
+Disable all antiviruses on your computer, and also completely disable Windows Defender (Real-time Protection).
+Disabling Windows Defender  (Click here to open)
+Make sure you have the correct version of Windows installed. EFT Chams only works with Windows 10(20h1, 20h2, 21h1, 21h2) and Windows 11 21H2.
+If you see a vulnerable driver failure during startup, then you need to download this file. Run the file and restart your PC, then try to run the cheat again. You also need to disable kernel isolation and Vulnerable Driver Blocking in Windows Defender.
+If you have any difficulties or questions, please contact our support In Our Discord server 
+You can follow all our news and updates in  Our Telegram channel.
+Enjoy the game, we are waiting for your next purchases and good reviews!
